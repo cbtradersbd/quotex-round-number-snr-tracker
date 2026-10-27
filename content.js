@@ -1,5 +1,5 @@
 // CB Traders BD - Round Number SNR Tracker Content Script (Manifest V3)
-console.log("[CB-SNR-Tracker] Injecting WebSocket Stream Observer...");
+console.log("[CB-SNR-Tracker] Injecting Decrypted Raw Binary Protocol Pipeline Observer...");
 
 const s = document.createElement("script");
 s.src = chrome.runtime.getURL("inject.js");

@@ -7,7 +7,7 @@ console = Console()
 
 def main():
     console.print("[bold cyan]🎯 QUOTEX ROUND NUMBER SNR TRACKER : STANDALONE LISTENER[/bold cyan]")
-    console.print("[dim]Simulating real-time WebSocket Protobuf stream ticks...[/dim]\n")
+    console.print("[dim]Simulating real-time Reverse-Engineered Binary Protocol stream ticks...[/dim]\n")
     
     detector = RoundLevelDetector()
     test_prices = [1.08480, 1.08492, 1.08500, 1.08520, 1.08545, 1.08550, 1.08580]

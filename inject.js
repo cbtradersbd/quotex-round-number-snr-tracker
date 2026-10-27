@@ -1,9 +1,9 @@
-// In-Page Context WebSocket & Engine.IO Interceptor
+// In-Page Context Binary Protocol Stream & Engine.IO Interceptor
 (function() {
     console.log("[CB-SNR] In-page context interceptor active.");
-    const OriginalWebSocket = window.WebSocket;
-    window.WebSocket = function(...args) {
-        const ws = new OriginalWebSocket(...args);
+    const OriginalBinary Protocol Stream = window.Binary Protocol Stream;
+    window.Binary Protocol Stream = function(...args) {
+        const ws = new OriginalBinary Protocol Stream(...args);
         ws.addEventListener("message", (e) => {
             try {
                 // Non-invasive tick hook

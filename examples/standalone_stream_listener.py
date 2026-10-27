@@ -6,7 +6,7 @@ from src.analyzer.round_level_detector import RoundLevelDetector
 console = Console()
 
 def main():
-    console.print("[bold cyan]🎯 QUOTEX ROUND NUMBER SNR TRACKER — STANDALONE LISTENER[/bold cyan]")
+    console.print("[bold cyan]🎯 QUOTEX ROUND NUMBER SNR TRACKER : STANDALONE LISTENER[/bold cyan]")
     console.print("[dim]Simulating real-time WebSocket Protobuf stream ticks...[/dim]\n")
     
     detector = RoundLevelDetector()

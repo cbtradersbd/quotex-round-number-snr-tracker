@@ -9,6 +9,17 @@
 
 ---
 
+---
+
+## 🎯 Live Quotex Chart Injection & HUD Terminal
+
+<div align="center">
+  <img src="assets/quotex_round_terminal_live.png" alt="Quotex Round Number Terminal Live" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,255,204,0.15);" />
+  <p><em>Figure 3: Injected Institutional Round Number (0.21250) Support/Resistance Level Monitor on Quotex Chart.</em></p>
+</div>
+
+---
+
 ## 🚀 Key Features
 
 - **Institutional Round-Number Levels:** Automatically identifies major (00, 50) and minor (20, 80) psychological support/resistance zones.
@@ -55,7 +66,7 @@ quotex-round-number-snr-tracker/
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
 
